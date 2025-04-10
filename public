@@ -1,0 +1,20 @@
+nextjs-demo-vehicle
+├── src
+│   ├── app
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   └── globals.css
+│   ├── components
+│   │   ├── ui
+│   │   │   ├── hero.tsx
+│   │   │   ├── features.tsx
+│   │   │   └── footer.tsx
+│   │   └── layout
+│   │       └── header.tsx
+├── public
+├── tailwind.config.js
+├── postcss.config.js
+├── next.config.js
+├── package.json
+├── .gitignore
+└── README.md
